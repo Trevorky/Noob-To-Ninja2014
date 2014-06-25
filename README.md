@@ -7,3 +7,5 @@ Noob-To-Ninja event - 2014
 Event Attendees
 ================
 Justin Donnaruma
+
+Trevor Gallant
